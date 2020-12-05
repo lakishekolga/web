@@ -1,0 +1,39 @@
+table {
+    width: 1600px;
+    height: 700px;
+    margin: 0px;
+    font-weight: 2px;
+}
+
+.img {
+    width: 100px;
+    height: 100px;
+}
+
+.day {
+    background-color: orange;
+    width: 50px;
+    height: 20px;
+    border: 2px;
+}
+.day:hover {
+    color: red;
+}
+
+.time {
+    background-color: blue;
+    width: 50px;
+    width: 70px;
+    border: 2px;
+}
+.time:hover {
+    color: yellow
+}
+
+.sub {
+    background-color: purple;
+    border: 2px;
+}
+.sub:hover {
+    color:pink
+}
